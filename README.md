@@ -9,7 +9,7 @@
 https://github.com/pjreddie/darknet
 
 - Segmentation fault when loading a yolov3 model, Raspberry Pi 3 doesn't have enough memory.
-- Got Bus error after loading a tiny-yolov3 modle. Not sure what cause this error.
+- Got Bus error after loading a tiny-yolov3 modle. Not sure what cause this error.
 
 
 ## Darknet-nnpack
