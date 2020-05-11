@@ -30,4 +30,4 @@ sudo cp deps/pthreadpool/include/pthreadpool.h /usr/include/
 cd
 git clone https://github.com/digitalbrain79/darknet-nnpack.git
 cd darknet-nnpack
-Make
+make
