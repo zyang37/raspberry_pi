@@ -2,7 +2,7 @@
 
 ## Operating System
 - Raspbian Buster with desktop
-- Tested Ubuntu Server 20.04 64bits (Trying resolve the Bus error, it's extremely slow and hard to setup)
+- Tested Ubuntu Server 20.04 64bits (Trying to resolve the Bus error, it's extremely slow and hard to setup)
 
 ## Optimized version of darknet
 https://github.com/AlexeyAB/darknet
