@@ -7,13 +7,13 @@
 ## Optimized version of darknet
 https://github.com/AlexeyAB/darknet
 
-| Models |yolov3 | tiny-yolov3 |
-|:------:|:------:|:------:|
-| Input Size | 416x416 | 416x416 |
-| Network Layers | 107 | 24 |
-| Class | 80 | 80 |
-| Time | 402.46s (6.7min) | 34.82s (0.56min) |
-| Prediction | <img src="images/yolov3_pred.jpg">  | <img src="images/tiny_yolov3_pred.jpg"> |
+| Models | yolov3 | yolov3_ssig | tiny-yolov3 |
+|:------:|:------:|:------:| :------: |
+| Input Size | 416x416 | 416x416 | 416x416 |
+| Network Layers | 107 | 107 | 24 |
+| Class | 80 | 1 | 80 |
+| Time | 402.46s (6.7mins) | 476.15s (7.94mins) | 34.82s (0.56min) |
+| Prediction | <img src="images/yolov3_pred.jpg"> | <img src="images/ssig_pred.jpg"> | <img src="images/tiny_yolov3_pred.jpg"> |
 
 - Note
   - Need to add yolov3_ssig(License Plate) to the table.
