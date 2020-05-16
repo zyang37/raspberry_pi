@@ -9,6 +9,7 @@ https://github.com/AlexeyAB/darknet
 
 | Models |yolov3 | tiny-yolov3 |
 |:------:|:------:|:------:|
+| Input Size | 416x416 | 416x416 |
 | Network Layers | 107 | 24 |
 | Class | 80 | 80 |
 | Time | 402.46s (6.7min) | 34.82s (0.56min) |
