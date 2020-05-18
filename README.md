@@ -16,7 +16,7 @@ https://github.com/AlexeyAB/darknet
 | Prediction | <img src="images/yolov3_pred.jpg"> | <img src="images/ssig_pred.jpg" width="70%"> | <img src="images/tiny_yolov3_pred.jpg"> |
 
 - Note
-  - Need to add yolov3_ssig(License Plate) to the table.
+  - Need to add yolov3_ssig(License Plate) to the table. (DONE)
   - Need to test the Python Wrapper
 
 
